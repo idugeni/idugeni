@@ -1,10 +1,10 @@
-# 👋 Hi, I’m @eliyantosarage-dev
+# 👋 Hi, I’m @eliyantosarage
 
 ## About Me
 - 👀 I’m interested in web development, machine learning, and open-source projects.
 - 🌱 I’m currently learning advanced JavaScript frameworks, Python for data science, and cloud computing.
 - 💞️ I’m looking to collaborate on innovative web applications, data-driven projects, and community-driven open-source software.
-- 📫 How to reach me: officialelsa21@gmail.com or connect with me on [Instagram](https://www.instagram.com/eliyantosarage_/).
+- 📫 How to reach me: officialelsa21@gmail.com or connect with me on <a href="https://www.instagram.com/eliyantosarage_/" style="text-decoration: none;">Instagram</a>.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and have climbed several mountains across Indonesia.
 
@@ -16,12 +16,18 @@
 
 ## Projects
 Here are some of my notable projects:
-1. **[Project A](https://github.com/eliyantosarage-dev/project-a):** A web application that allows users to manage tasks efficiently using React and Node.js.
-2. **[Project B](https://github.com/eliyantosarage-dev/project-b):** A machine learning project for predicting housing prices using Python and TensorFlow.
-3. **[Project C](https://github.com/eliyantosarage-dev/project-c):** An open-source project focused on creating a community-driven platform for learning and sharing coding knowledge.
+1. <a href="https://github.com/eliyantosarage-dev/Open-Graph-Image-Generator" style="text-decoration: none;">**Open-Graph-Image-Generator**</a>: Generate Open Graph images for your GitHub repositories using a simple URL format.
+2. <a href="https://github.com/eliyantosarage-dev/" style="text-decoration: none;">**Next Project**</a>: Coming Soon
+
+## Tools
+some tools that might be useful for you:
+1. <a href="https://seo.ekatalendra.com/" style="text-decoration: none;">**Professional SEO Reports and Tools**</a>: Identify technical SEO issues and take action to improve the health and performance of your website.
+2. <a href="https://qr.ekatalendra.com/" style="text-decoration: none;">**QR Code Generator**</a>: Identify technical SEO issues and take action to improve the health and performance of your website.
 
 ## GitHub Stats
-![eliyantosarage-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliyantosarage-dev&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliyantosarage-dev&show_icons=true&theme=radical" alt="eliyantosarage-dev's GitHub stats">
+</p>
 
 ## Recent Activity
 <!--START_SECTION:activity-->
@@ -29,10 +35,11 @@ Here are some of my notable projects:
 
 ## Blog Posts
 I also enjoy writing about technology and sharing my experiences:
-- **[My Blog](https://medium.com/@eliyantosarage-dev):** Check out my latest articles on Medium.
+- <a href="https://ekatalendra.com/" style="text-decoration: none;">**Ekatalendra**</a>: Check out my latest articles on Website.
+- <a href="https://decodebug.blogspot.com/" style="text-decoration: none;">**Decodebug**</a>: Check out my latest articles on Blogger.
 
 ## Get In Touch
-Feel free to reach out to me for collaboration, questions, or just to say hi! You can email me at officialelsa21@gmail.com or find me on [Instagram](https://www.instagram.com/eliyantosarage_/).
+Feel free to reach out to me for collaboration, questions, or just to say hi! You can email me at officialelsa21@gmail.com or find me on <a href="https://www.instagram.com/eliyantosarage_/" style="text-decoration: none;">Instagram</a>.
 
 <!---
 eliyantosarage-dev/eliyantosarage-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
