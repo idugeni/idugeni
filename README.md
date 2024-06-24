@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @eliyantosarage
+# 👋 Hi, I’m Eliyanto Sarage
 
 ## About Me
 - 👀 I’m interested in web development, machine learning, and open-source projects.
@@ -16,8 +16,8 @@
 
 ## Projects
 Here are some of my notable projects:
-1. <a href="https://github.com/eliyantosarage-dev/Open-Graph-Image-Generator" style="text-decoration: none;">**Open-Graph-Image-Generator**</a>: Generate Open Graph images for your GitHub repositories using a simple URL format.
-2. <a href="https://github.com/eliyantosarage-dev/" style="text-decoration: none;">**Next Project**</a>: Coming Soon
+1. <a href="https://github.com/idugeni/Open-Graph-Image-Generator" style="text-decoration: none;">**Open-Graph-Image-Generator**</a>: Generate Open Graph images for your GitHub repositories using a simple URL format.
+2. <a href="https://github.com/idugeni/" style="text-decoration: none;">**Next Project**</a>: Coming Soon
 
 ## Tools
 some tools that might be useful for you:
@@ -26,7 +26,7 @@ some tools that might be useful for you:
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliyantosarage-dev&show_icons=true&theme=radical" alt="eliyantosarage-dev's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=idugeni&show_icons=true&theme=radical" alt="idugeni's GitHub stats">
 </p>
 
 ## Recent Activity
@@ -42,6 +42,6 @@ I also enjoy writing about technology and sharing my experiences:
 Feel free to reach out to me for collaboration, questions, or just to say hi! You can email me at officialelsa21@gmail.com or find me on <a href="https://www.instagram.com/eliyantosarage_/" style="text-decoration: none;">Instagram</a>.
 
 <!---
-eliyantosarage-dev/eliyantosarage-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+idugeni/idugeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
