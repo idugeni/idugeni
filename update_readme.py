@@ -3,7 +3,7 @@ from datetime import datetime
 import os
 
 # Ganti dengan nama pengguna GitHub Anda
-USERNAME = 'your-username'
+USERNAME = 'idugeni'
 TOKEN = os.getenv('GITHUB_TOKEN')
 HEADERS = {'Authorization': f'token {TOKEN}'}
 
