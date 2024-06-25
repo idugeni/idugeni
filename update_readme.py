@@ -18,10 +18,18 @@ events = []
 for repo in repos:
     repo_name = repo['name']
     events_url = f'https://api.github.com/repos/{USERNAME}/{repo_name}/events'
-    repo_events_response = requests.get(events_url, headers=HEADERS)
-    repo_events_response.raise_for_status()
-    repo_events = repo_events_response.json()
-    events.extend(repo_events)
+    try:
+        repo_events_response = requests.get(events_url, headers=HEADERS)
+        repo_events_response.raise_for_status()
+        repo_events = repo_events_response.json()
+        events.extend(repo_events)
+    except requests.exceptions.HTTPError as http_err:
+        if repo_events_response.status_code == 451:
+            print(f"Skipping repository {repo_name} due to legal restrictions (HTTP 451)")
+        else:
+            print(f"HTTP error occurred for repository {repo_name}: {http_err}")
+    except Exception as err:
+        print(f"An error occurred for repository {repo_name}: {err}")
 
 # Mengurutkan aktivitas berdasarkan waktu dan mengambil 5 aktivitas terbaru
 try:
