@@ -2,7 +2,7 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # menjalankan setiap jam
+    - cron: '0 0 * * *'  # menjalankan setiap hari pada pukul 00:00 UTC
   push:
     branches:
       - main
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v2
