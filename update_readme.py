@@ -9,18 +9,31 @@ HEADERS = {'Authorization': f'token {TOKEN}'}
 
 # Mendapatkan semua repositori pengguna
 repos_url = f'https://api.github.com/users/{USERNAME}/repos'
-repos = requests.get(repos_url, headers=HEADERS).json()
+repos_response = requests.get(repos_url, headers=HEADERS)
+repos_response.raise_for_status()
+repos = repos_response.json()
 
 # Mengambil aktivitas terbaru dari semua repositori
 events = []
 for repo in repos:
     repo_name = repo['name']
     events_url = f'https://api.github.com/repos/{USERNAME}/{repo_name}/events'
-    repo_events = requests.get(events_url, headers=HEADERS).json()
+    repo_events_response = requests.get(events_url, headers=HEADERS)
+    repo_events_response.raise_for_status()
+    repo_events = repo_events_response.json()
     events.extend(repo_events)
 
 # Mengurutkan aktivitas berdasarkan waktu dan mengambil 5 aktivitas terbaru
-events = sorted(events, key=lambda x: x['created_at'], reverse=True)[:5]
+try:
+    events = sorted(events, key=lambda x: x['created_at'], reverse=True)[:5]
+except KeyError as e:
+    print(f"Error: Key {e} not found in some events")
+    print("Event data example:", events[0])
+    exit(1)
+except TypeError as e:
+    print(f"Error: {e}")
+    print("Event data example:", events[0])
+    exit(1)
 
 # Format aktivitas
 last_activities = []
