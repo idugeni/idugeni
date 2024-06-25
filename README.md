@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Eliyanto Sarage
+# 👋 Hi, I’m Eliyanto Sarage (@idugeni)
 
 ## About Me
 - 👀 I’m interested in web development, machine learning, and open-source projects.
