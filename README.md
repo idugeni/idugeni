@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Eliyanto Sarage (@idugeni)
 
+<p align="center">
+  <img src="https://opengraph.githubassets.com/0/idugeni/idugeni" alt="Open Graph Image">
+</p>
+
 ## About Me
 - 👀 I’m interested in web development, machine learning, and open-source projects.
 - 🌱 I’m currently learning advanced JavaScript frameworks, Python for data science, and cloud computing.
