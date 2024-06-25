@@ -10,6 +10,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    outputs:
+      changes: ${{ steps.check-status.outputs.changes }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,11 +32,13 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
       - name: Check Git Status
-        id: git-status
-        run: echo ::set-output name=changes::$(git status --porcelain)
+        id: check-status
+        run: |
+          changes=$(git status --porcelain)
+          echo "changes=$changes" >> $GITHUB_ENV
 
       - name: Commit and Push Changes
-        if: steps.git-status.outputs.changes
+        if: ${{ env.changes != '' }}
         run: |
           git add README.md
           git commit -m "Update last activity in README"
