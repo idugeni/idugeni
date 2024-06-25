@@ -2,16 +2,11 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # menjalankan setiap hari pada pukul 00:00 UTC
-  push:
-    branches:
-      - main
+    - cron: "*/30 * * * *"
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    outputs:
-      changes: ${{ steps.check-status.outputs.changes }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,20 +21,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Configure Git
+      - name: Configure Git and Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-
-      - name: Check Git Status
-        id: check-status
-        run: |
-          changes=$(git status --porcelain)
-          echo "changes=$changes" >> $GITHUB_ENV
-
-      - name: Commit and Push Changes
-        if: ${{ env.changes != '' }}
-        run: |
-          git add README.md
-          git commit -m "Update last activity in README"
-          git push
+          
+          if [[ $(git status --porcelain) ]]; then
+            git add README.md
+            git commit -m "Update last activity in README"
+            git push
+          else
+            echo "No changes detected"
