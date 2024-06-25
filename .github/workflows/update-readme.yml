@@ -34,3 +34,4 @@ jobs:
             git push
           else
             echo "No changes detected"
+          fi  # tambahkan ini untuk menutup blok if-else
