@@ -120,7 +120,7 @@ I also enjoy writing about technology and sharing my experiences:
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- EKATALENDRA:START --><!-- EKATALENDRA:END -->
+  <!-- EKATALENDRA:START --><tr><td>Gambar Open Graph untuk Repo GitHub</td><td>https://ekatalendra.com/gambar-open-graph-untuk-repo-github/</td></tr><tr><td>Ukuran Unit Iklan AdSense</td><td>https://ekatalendra.com/ukuran-unit-iklan-adsense/</td></tr><tr><td>Panduan Lengkap Menggunakan Platform WordPress untuk Pemula</td><td>https://ekatalendra.com/panduan-lengkap-menggunakan-platform-wordpress-untuk-pemula/</td></tr><tr><td>6 Cara Meningkatkan Gairah Pasangan</td><td>https://ekatalendra.com/6-cara-meningkatkan-gairah-pasangan/</td></tr><tr><td>6 Daftar Situs Menulis Artikel Dibayar yang Wajib Dicoba</td><td>https://ekatalendra.com/6-daftar-situs-menulis-artikel-dibayar/</td></tr><!-- EKATALENDRA:END -->
 </table>
 
 ## Get In Touch
