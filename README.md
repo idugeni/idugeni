@@ -4,21 +4,32 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/idugeni?style=social)
-![GitHub stars](https://img.shields.io/github/stars/idugeni?style=social)
-![GitHub forks](https://img.shields.io/github/forks/idugeni/idugeni?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/idugeni/idugeni?style=social)
-![GitHub issues](https://img.shields.io/github/issues/idugeni/idugeni)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/idugeni/idugeni)
-![GitHub license](https://img.shields.io/github/license/idugeni/idugeni)
-![GitHub repo size](https://img.shields.io/github/repo-size/idugeni/idugeni)
-![GitHub last commit](https://img.shields.io/github/last-commit/idugeni/idugeni)
-![GitHub contributors](https://img.shields.io/github/contributors/idugeni/idugeni)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/idugeni/idugeni)
-![GitHub open issues](https://img.shields.io/github/issues-raw/idugeni/idugeni)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/idugeni/idugeni)
-![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/idugeni/idugeni)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/idugeni/idugeni)
+  <!-- Statistik Interaksi Sosial -->
+  <div>
+    <img src="https://img.shields.io/github/followers/idugeni?style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/stars/idugeni?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/forks/idugeni/idugeni?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/watchers/idugeni/idugeni?style=social" alt="GitHub watchers">
+  </div>
+
+  <!-- Aktivitas dan Status Isu -->
+  <div>
+    <img src="https://img.shields.io/github/issues/idugeni/idugeni" alt="GitHub issues">
+    <img src="https://img.shields.io/github/issues-pr/idugeni/idugeni" alt="GitHub pull requests">
+    <img src="https://img.shields.io/github/issues-raw/idugeni/idugeni" alt="GitHub open issues">
+    <img src="https://img.shields.io/github/issues-closed/idugeni/idugeni" alt="GitHub closed issues">
+    <img src="https://img.shields.io/github/issues-pr-raw/idugeni/idugeni" alt="GitHub open pull requests">
+    <img src="https://img.shields.io/github/issues-pr-closed/idugeni/idugeni" alt="GitHub closed pull requests">
+  </div>
+
+  <!-- Informasi Repositori -->
+  <div>
+    <img src="https://img.shields.io/github/license/idugeni/idugeni" alt="GitHub license">
+    <img src="https://img.shields.io/github/repo-size/idugeni/idugeni" alt="GitHub repo size">
+    <img src="https://img.shields.io/github/last-commit/idugeni/idugeni" alt="GitHub last commit">
+    <img src="https://img.shields.io/github/contributors/idugeni/idugeni" alt="GitHub contributors">
+    <img src="https://img.shields.io/github/commit-activity/m/idugeni/idugeni" alt="GitHub commit activity">
+  </div>
 
 </div>
 
@@ -38,49 +49,14 @@
 
 ## Skills
 
-- **Languages:**
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-</div>
 
-- **Frameworks/Libraries:**
+| **Languages**            | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/go/go-original.svg" alt="Go" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> |
+|:------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Frameworks/Libraries** | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> |
+| **Tools**                | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/> |
+| **Databases**            | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> |   |   |   |   |
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-</div>
-
-- **Tools:**
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-</div>
-
-- **Databases:**
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </div>
 
 ## Projects
@@ -101,17 +77,16 @@ some tools that might be useful for you:
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=idugeni&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" alt="idugeni's Stats">
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idugeni&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="idugeni's Top Languages">
-    </div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=idugeni&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" alt="idugeni's Stats" style="height: 200px;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idugeni&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="idugeni's Top Languages" style="height: 200px;" />
+
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idugeni&theme=midnight-purple&hide_border=true" alt="idugeni's Streak" style="height: 200px;" />
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idugeni&theme=midnight-purple&hide_border=true" alt="idugeni's Streak">
 </div>
 
 ## Blog Posts
