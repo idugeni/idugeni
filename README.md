@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/watchers/idugeni/idugeni?style=social" alt="GitHub watchers">
 </div>
 
-<br> <!-- Baris kosong untuk jarak -->
+<br>
 
 <!-- Aktivitas dan Status Isu -->
 <div align="center">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/issues-pr-closed/idugeni/idugeni" alt="GitHub closed pull requests">
 </div>
 
-<br> <!-- Baris kosong untuk jarak -->
+<br>
 
 <!-- Informasi Repositori -->
 <div align="center">
@@ -97,7 +97,11 @@ Here are some of my notable projects:
 
 2. [**Tokopedia OTP Sender**](https://github.com/idugeni/Tokopedia-OTP-Sender): This Python application allows you to send an OTP (One-Time Password) message to a destination number with an OTP from Tokopedia using their API.
 
-## Tools
+3. [**WASTEKPAM**](https://github.com/idugeni/wastekpam): adalah sebuah aplikasi otomatisasi laporan ASTEKPAM untuk menghasilkan laporan yang siap dikirim melalui WhatsApp, memastikan format yang konsisten dan mudah dibaca.
+
+4. [**MAKARYA**](https://github.com/idugeni/makarya): Aplikasi Management Data Karyawan ini dirancang untuk memberikan solusi lengkap dalam mengelola informasi karyawan di lingkungan perusahaan Anda. Dengan antarmuka yang intuitif dan fitur yang komprehensif, aplikasi ini memudahkan Anda untuk melakukan berbagai tugas administratif dengan cepat dan efisien.
+
+## Featured Tools
 
 some tools that might be useful for you:
 
