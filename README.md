@@ -105,9 +105,11 @@ Here are some of my notable projects:
 
 some tools that might be useful for you:
 
-1. [**Professional SEO Reports and Tools**](https://seo.ekatalendra.com/): Identify technical SEO issues and take action to improve the health and performance of your website.
+1. [**MarkSoul - Digital Marketplace**](https://market.oldsoul.id/): Explore Premium WordPress Templates, Plugins, PHP Scripts, and Creative Graphics.
 
-2. [**QR Code Generator**](https://qr.ekatalendra.com/): Identify technical SEO issues and take action to improve the health and performance of your website.
+2. [**ShortSoul – Premium URL Shortener**](https://s.oldsoul.id/): Streamline your link sharing with ShortSoul, the premium URL shortener that offers fast, secure, and free URL shortening with advanced tracking features, blending modern technology with timeless elegance.
+
+3. [**TempSoul - Fast, Secure, and Disposable Emails**](https://tmp.oldsoul.id/): TempSoul offers fast, secure, and disposable email services to protect your privacy and manage temporary email addresses with ease.
 
 ## GitHub Stats
 
@@ -120,15 +122,6 @@ some tools that might be useful for you:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=idugeni&theme=midnight-purple&hide_border=true" alt="idugeni's Streak" style="height: 200px;" />
 
 </div>
-
-## Blog Posts
-
-I also enjoy writing about technology and sharing my experiences:
-
-<table>
-  <tr><td>Title</td><td>Link</td></tr>
-  <!-- EKATALENDRA:START --><tr><td>Gambar Open Graph untuk Repo GitHub</td><td>https://ekatalendra.com/gambar-open-graph-untuk-repo-github/</td></tr><tr><td>Ukuran Unit Iklan AdSense</td><td>https://ekatalendra.com/ukuran-unit-iklan-adsense/</td></tr><tr><td>Panduan Lengkap Menggunakan Platform WordPress untuk Pemula</td><td>https://ekatalendra.com/panduan-lengkap-menggunakan-platform-wordpress-untuk-pemula/</td></tr><tr><td>6 Cara Meningkatkan Gairah Pasangan</td><td>https://ekatalendra.com/6-cara-meningkatkan-gairah-pasangan/</td></tr><tr><td>6 Daftar Situs Menulis Artikel Dibayar yang Wajib Dicoba</td><td>https://ekatalendra.com/6-daftar-situs-menulis-artikel-dibayar/</td></tr><!-- EKATALENDRA:END -->
-</table>
 
 ## Get In Touch
 
