@@ -89,28 +89,6 @@
 
 </div>
 
-## Projects
-
-Here are some of my notable projects:
-
-1. [**Open Graph Image Generator**](https://github.com/idugeni/Open-Graph-Image-Generator): Generate Open Graph images for your GitHub repositories using a simple URL format.
-
-2. [**Tokopedia OTP Sender**](https://github.com/idugeni/Tokopedia-OTP-Sender): This Python application allows you to send an OTP (One-Time Password) message to a destination number with an OTP from Tokopedia using their API.
-
-3. [**WASTEKPAM**](https://github.com/idugeni/wastekpam): adalah sebuah aplikasi otomatisasi laporan ASTEKPAM untuk menghasilkan laporan yang siap dikirim melalui WhatsApp, memastikan format yang konsisten dan mudah dibaca.
-
-4. [**MAKARYA**](https://github.com/idugeni/makarya): Aplikasi Management Data Karyawan ini dirancang untuk memberikan solusi lengkap dalam mengelola informasi karyawan di lingkungan perusahaan Anda. Dengan antarmuka yang intuitif dan fitur yang komprehensif, aplikasi ini memudahkan Anda untuk melakukan berbagai tugas administratif dengan cepat dan efisien.
-
-## Featured Tools
-
-some tools that might be useful for you:
-
-1. [**MarkSoul - Digital Marketplace**](https://market.oldsoul.id/): Explore Premium WordPress Templates, Plugins, PHP Scripts, and Creative Graphics.
-
-2. [**ShortSoul – Premium URL Shortener**](https://s.oldsoul.id/): Streamline your link sharing with ShortSoul, the premium URL shortener that offers fast, secure, and free URL shortening with advanced tracking features, blending modern technology with timeless elegance.
-
-3. [**TempSoul - Fast, Secure, and Disposable Emails**](https://tmp.oldsoul.id/): TempSoul offers fast, secure, and disposable email services to protect your privacy and manage temporary email addresses with ease.
-
 ## GitHub Stats
 
 <div align="center">
