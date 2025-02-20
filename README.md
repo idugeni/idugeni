@@ -7,7 +7,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/idugeni?style=for-the-badge&logo=github)](https://github.com/idugeni?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/idugeni?style=for-the-badge&logo=github)](https://github.com/idugeni)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/idugeni?style=for-the-badge&logo=github)](https://github.com/sponsors/idugeni)
-[![Website](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio-url.com)
 
 </div>
 
