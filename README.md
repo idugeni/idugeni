@@ -1,111 +1,94 @@
-# 👋 Hi, I’m Jagad Brahma Wiraatmaja
+# Jagad Brahma Wiraatmaja
 
-![Jagad Brahma Wiraatmaja](https://opengraph.githubassets.com/88c7bb9179dd2f9f905e829065d2dac83fae36b8/idugeni/idugeni)
-
-<!-- Statistik Interaksi Sosial -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/idugeni?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/idugeni?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/idugeni/idugeni?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/watchers/idugeni/idugeni?style=social" alt="GitHub watchers">
-</div>
-
-<br>
-
-<!-- Aktivitas dan Status Isu -->
-<div align="center">
-  <img src="https://img.shields.io/github/issues/idugeni/idugeni" alt="GitHub issues">
-  <img src="https://img.shields.io/github/issues-pr/idugeni/idugeni" alt="GitHub pull requests">
-  <img src="https://img.shields.io/github/issues-raw/idugeni/idugeni" alt="GitHub open issues">
-  <img src="https://img.shields.io/github/issues-closed/idugeni/idugeni" alt="GitHub closed issues">
-  <img src="https://img.shields.io/github/issues-pr-raw/idugeni/idugeni" alt="GitHub open pull requests">
-  <img src="https://img.shields.io/github/issues-pr-closed/idugeni/idugeni" alt="GitHub closed pull requests">
-</div>
-
-<br>
-
-<!-- Informasi Repositori -->
-<div align="center">
-  <img src="https://img.shields.io/github/license/idugeni/idugeni" alt="GitHub license">
-  <img src="https://img.shields.io/github/repo-size/idugeni/idugeni" alt="GitHub repo size">
-  <img src="https://img.shields.io/github/last-commit/idugeni/idugeni" alt="GitHub last commit">
-  <img src="https://img.shields.io/github/contributors/idugeni/idugeni" alt="GitHub contributors">
-  <img src="https://img.shields.io/github/commit-activity/m/idugeni/idugeni" alt="GitHub commit activity">
-</div>
-
-## About Me
-
-- 👀 I’m interested in web development, machine learning, and open-source projects.
-
-- 🌱 I’m currently learning advanced JavaScript frameworks, Python for data science, and cloud computing.
-
-- 💞️ I’m looking to collaborate on innovative web applications, data-driven projects, and community-driven open-source software.
-
-- 📫 How to reach me: <officialelsa21@gmail.com> or connect with me on [Instagram](https://www.instagram.com/eliyantosarage_/)</a>.
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I love hiking and have climbed several mountains across Indonesia.
-
-## Skills
+> Full Stack Developer | Machine Learning Enthusiast | Open Source Contributor
 
 <div align="center">
-
-### Languages
-
-| <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" alt="Python" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/php/php-original.svg" alt="PHP" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/java/java-original.svg" alt="Java" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/swift/swift-original.svg" alt="Swift" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/go/go-original.svg" alt="Go" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" style="height: 32px;"/> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| JavaScript | Python | PHP | Java | Kotlin | Swift | Ruby | C# | Go | TypeScript |
+  
+[![GitHub followers](https://img.shields.io/github/followers/idugeni?style=for-the-badge&logo=github)](https://github.com/idugeni?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/idugeni?style=for-the-badge&logo=github)](https://github.com/idugeni)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/idugeni?style=for-the-badge&logo=github)](https://github.com/sponsors/idugeni)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio-url.com)
 
 </div>
 
-<div align="center">
+## 🚀 About Me
 
-### Frameworks/Libraries
+Passionate Full Stack Developer with expertise in web development, machine learning, and cloud technologies. I thrive on building scalable applications and contributing to open-source projects that make a difference. Currently focused on advancing the intersection of web technologies and artificial intelligence.
 
-| <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/react/react-original.svg" alt="React" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/express/express-original.svg" alt="Express" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/redux/redux-original.svg" alt="Redux" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/flask/flask-original.svg" alt="Flask" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/spring/spring-original.svg" alt="Spring" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/angularjs/angularjs-original.svg" alt="Angular" style="height: 32px;"/> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| React | Next.js | Node.js | Express | Tailwind CSS | Bootstrap | Redux | TensorFlow | Flask | Spring | Angular |
+- 🔭 **Currently working on:** Building scalable web applications using Next.js and TensorFlow
+- 🌱 **Learning:** Advanced cloud architecture, MLOps, and system design patterns
+- 👯 **Looking to collaborate on:** Open-source projects focused on AI/ML or web development
+- 💬 **Ask me about:** JavaScript, Python, React, Machine Learning, Cloud Architecture
+- 🎯 **2024 Goals:** Contribute to major open-source projects and launch innovative web applications
+- ⚡ **Fun fact:** Avid mountain climber who has conquered several peaks across Indonesia
 
-</div>
-
-<div align="center">
-
-### Tools
-
-| <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/git/git-original.svg" alt="Git" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/figma/figma-original.svg" alt="Figma" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jira/jira-original.svg" alt="Jira" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/slack/slack-original.svg" alt="Slack" style="height: 32px;"/> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Git | Docker | Kubernetes | AWS | Linux | Nginx | Visual Studio | GitHub | Figma | Jira | Slack |
-
-</div>
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### Databases
+### Core Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-| <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/redis/redis-original.svg" alt="Redis" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" style="height: 32px;"/> | <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" style="height: 32px;"/> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| MongoDB | PostgreSQL | MySQL | Redis | SQLite | Oracle | Firebase |
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Database Technologies
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## GitHub Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idugeni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idugeni&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
+
+## 🌟 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=idugeni&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" alt="idugeni's Stats" style="height: 200px;" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idugeni&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="idugeni's Top Languages" style="height: 200px;" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idugeni&theme=midnight-purple&hide_border=true" alt="idugeni's Streak" style="height: 200px;" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idugeni&repo=astralumen&theme=github_dark)](https://github.com/idugeni/astralumen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idugeni&repo=auto-commit-message&theme=github_dark)](https://github.com/idugeni/auto-commit-message)
 
 </div>
 
-## Get In Touch
+## 📫 Connect With Me
 
-Feel free to reach out to me for collaboration, questions, or just to say hi! You can email me at <officialelsa21@gmail.com> or find me on [Instagram](https://www.instagram.com/eliyantosarage_/).
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-officialelsa21%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:officialelsa21@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliyantosarage_/)
 
-<!---
-idugeni/idugeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+---
+
+<div align="center">
+  
+📈 **Profile Views**
+  
+![Profile Views](https://komarev.com/ghpvc/?username=idugeni&style=for-the-badge)
+
+</div>
