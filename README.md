@@ -1,6 +1,8 @@
 # Jagad Brahma Wiraatmaja
 
-> Full Stack Developer | Machine Learning Enthusiast | Open Source Contributor
+<p align="center">
+Full Stack Developer | Machine Learning Enthusiast | Open Source Contributor
+</p>
 
 <div align="center">
   
