@@ -116,7 +116,7 @@ Passionate Full Stack Developer with expertise in web development, machine learn
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idugeni&repo=optiscoop&theme=github_dark)](https://github.com/idugeni/optiscoop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idugeni&repo=auto-commit-message&theme=github_dark)](https://github.com/idugeni/auto-commit-message)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idugeni&repo=e-astekpam&theme=github_dark)](https://github.com/idugeni/e-astekpam)
 
 </div>
 
