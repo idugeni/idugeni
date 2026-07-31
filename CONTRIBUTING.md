@@ -1,6 +1,6 @@
 # Panduan Kontribusi
 
-Terima kasih telah mempertimbangkan untuk berkontribusi pada proyek ini! Kami sangat menghargai setiap kontribusi dari komunitas.
+Terima kasih telah mempertimbangkan untuk berkontribusi pada repositori profil GitHub ini! Kami sangat menghargai setiap kontribusi dari komunitas, baik berupa perbaikan tipo, saran konten, maupun peningkatan template.
 
 ## Proses Kontribusi
 
