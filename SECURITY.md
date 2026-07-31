@@ -2,20 +2,26 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This repository holds GitHub profile configuration files rather than a
+versioned software release, so security fixes are always applied to the
+`main` branch only.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Branch | Supported          |
+| ------ | ------------------ |
+| main   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security issue in this repository or in one of the
+projects it links to, please report it responsibly:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+1. **Do not** open a public issue for security-sensitive reports.
+2. Email **officialelsa21@gmail.com** with a clear description of the
+   issue, steps to reproduce, and its potential impact.
+3. You can expect an initial response within **72 hours**.
+4. Once a report is confirmed, a fix will be prioritized and you will be
+   kept updated on the remediation timeline. Reports that turn out to be
+   invalid or out of scope will be closed with an explanation.
+
+We appreciate responsible disclosure and will credit reporters (with their
+permission) once a fix has been released.
